@@ -1,0 +1,15 @@
+body{
+    background-color: goldenrod;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#camera{
+    border: 2px dashed green;
+    width:350px;
+    height: 300px;
+
+}
+#result_object_name,#result_object_accuracy{
+    color:seagreen;
+}
